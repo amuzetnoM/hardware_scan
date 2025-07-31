@@ -2,6 +2,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform: Linux/macOS/Windows](https://img.shields.io/badge/platform-linux--macos--windows-blue)
+
+
 A comprehensive cross-platform hardware scanning utility that provides detailed information about your system's hardware components and configuration.
 
 ## Features
