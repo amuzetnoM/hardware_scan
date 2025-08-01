@@ -158,7 +158,7 @@ If you encounter any issues or have questions, please check the [FAQ](FAQ.md) or
 
 ## Changelog
 
-### v1.0.0
+### v0.0.0
 - Initial release with cross-platform support
 - Comprehensive hardware scanning for Linux, macOS, and Windows
 - Colorized output formatting
